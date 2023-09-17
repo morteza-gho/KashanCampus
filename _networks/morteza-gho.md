@@ -36,7 +36,7 @@ experiences:
     role: Front-End Developer - Reactjs
     description: Develop education application
     link: http://www.desap.co.uk
-    tags: Reactjs AttDesign GraphQL typescript javascript Tailwind css3 html5 SCSS 
+    tags: Reactjs AntDesign GraphQL typescript javascript Tailwind css3 html5 SCSS 
 projects:
   - name: See in my website
     description: See all my projects in my website please
